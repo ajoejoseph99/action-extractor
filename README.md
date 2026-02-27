@@ -15,6 +15,6 @@ Run commands in your Cloud Shell Terminal one by one:
 ```bash
 git clone https://github.com/ajoejoseph99/action-extractor.git
 
-cd action-extractor.git
+cd action-extractor
 
 ```
