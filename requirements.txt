@@ -1,0 +1,8 @@
+google-adk
+google-api-python-client
+google-auth
+google-cloud-storage
+fastapi
+uvicorn
+google-cloud-firestore
+python-dotenv
