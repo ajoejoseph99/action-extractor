@@ -6,7 +6,7 @@ from tools import save_task_to_firestore, get_tasks_by_assignee
 
 root_agent = LlmAgent(
     name="action_extractor",
-    model="gemini-3-flash",
+    model="gemini-3-flash-preview",
     tools=[save_task_to_firestore, get_tasks_by_assignee],
     instruction=(
         "You are an AI assistant that manages meeting action items. "
